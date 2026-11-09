@@ -1,0 +1,6 @@
+interface:
+  display_name: "Podcast Editing V2"
+  short_description: "从音频与 SRT 完成校对、粗剪、切片策划和语境审核"
+  default_prompt: "Use $podcast-editing-v2 to process a podcast episode from its full audio and original SRT."
+policy:
+  allow_implicit_invocation: true

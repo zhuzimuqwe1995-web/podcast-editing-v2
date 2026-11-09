@@ -1,0 +1,3 @@
+action,source_indexes,start,end,original_text,reason,evidence,confidence,reviewer_status,reviewer_note
+delete,1-2,"00:59:59,996","01:00:09,772",VK 与 SkyRace 铺垫,主题聚焦 PTL,删除后第3条可独立起句,high,,
+review,5,"01:00:24,516","01:00:30,493",主持人追问,可能涉及多人衔接需人工听切,保守保留并在达芬奇复核,medium,,

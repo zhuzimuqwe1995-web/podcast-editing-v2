@@ -1,0 +1,2 @@
+item,cue_id,source_start,source_end,spoken_trigger,purpose,suggested_subject,suggested_material_type,duration,avoid_misleading,rights_note
+demo-1,b1,"00:00:08,200","00:00:13,222",我们用原时间码记录每个决定,解释方法,时间码与审核表的示意界面,编辑制作的示意图,3秒,不要伪装成真实剪辑工程截图,使用自制素材

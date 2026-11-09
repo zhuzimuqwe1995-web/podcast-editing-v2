@@ -1,0 +1,4 @@
+source_indexes,start_ms,end_ms,original_text,audio_observation,corrected_text,evidence_status,confidence,reviewer_resolution
+1,0,4100,很多人以为播客剪辑只是删除停顿,与音频一致,很多人以为播客剪辑只是删除停顿,verified,high,
+2,4100,8200,其实更难的是保留说话人的现定条件和真实语气,音频为“限定条件”,其实更难的是保留说话人的限定条件和真实语气,verified,high,
+3,8200,13222,我们用原时间码记录每个决定这样剪辑师可以回到录音核对,与音频一致；按语义断行,我们用原时间码记录每个决定这样剪辑师可以回到录音核对,verified,high,
